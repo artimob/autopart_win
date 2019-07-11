@@ -1,3 +1,5 @@
+# autopart_win
+
 SYNOPSIS
 
 Quick and dirty script to automaticaly partition and format new disks presented to a system
