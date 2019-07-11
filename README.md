@@ -12,7 +12,7 @@ Tested on: Windows Server 2008 R2 and Windows Server 2012 R2
 
 EXAMPLE1
 
-.\autopart_win.ps1 -DriveLetter T -DriveLabel DISK01
+.\autopart_win.ps1 -RequestedDriveLetter T -RequestedDriveLabelPrefix DISK01
 
 EXAMPLE2
 
